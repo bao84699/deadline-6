@@ -9,7 +9,7 @@
     width: 95%;
 }
 .header {
-    padding: 0 83px;
+    padding: 20px 0;
 }
 .headerbox {
     max-width: 1200px;
@@ -18,7 +18,6 @@
     justify-content: space-between;
     align-items: center;
     gap: 30px;
-    width: 95%%; 
 }
 .logo {
     background-color: #e2e2e2;
@@ -57,7 +56,7 @@
     font-weight: 700
 }
 .box1 {
-    padding: 83px;
+    padding: 83px 0;
     display: flex;
     justify-content: center;
     background-color: #F1F1F1;
@@ -135,7 +134,7 @@
     font-weight: 700;
 }
 .box3 {
-    padding: 83px;
+    padding: 83px 0;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -157,7 +156,7 @@
     font-weight: 700;
 }
 .box4 {
-    padding: 83px;
+    padding: 83px 0;
     width: 100%;
     display: flex;
     justify-content: center;
